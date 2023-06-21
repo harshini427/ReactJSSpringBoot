@@ -1,0 +1,25 @@
+* {
+    justify-content: center;
+    /* background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000"); */
+}
+.create-employee-container {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbackground&psig=AOvVaw0hdO2m__SUwGPA8xIDWatZ&ust=1686209866514000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjG2KDTsP8CFQAAAAAdAAAAABAE') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 500px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .card {
+    background-image: url('https://img.freepik.com/free-photo/flat-lay-arrows-with-copy-space_23-2148490558.jpg?w=900&t=st=1686125229~exp=1686125829~hmac=0ce981b2edb090b01d6f3bb150a1f26c946cdafeb9766947559c50660cee44f8') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  

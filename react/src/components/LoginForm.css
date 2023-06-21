@@ -1,0 +1,80 @@
+* {
+    justify-content: center;
+    /* background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000"); */
+}
+.container {
+    background-color: #f2f2f2;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+  }
+  
+  .login {
+    background-color: white;
+    background-image: url('https://th.bing.com/th/id/OIP.ZS_B2XanLYx33JXhcPaIeAAAAA?pid=ImgDet&w=200&h=200&rs=1') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .login input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .login button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login button:hover {
+    background-color: #7e6691;
+  }
+  
+  .errorMessage {
+    margin-bottom: 10px;
+    color: red;
+  }
+  
+  .successMessage {
+    margin-bottom: 10px;
+    color: green;
+  }
+  .btn-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .btn-group button {
+    flex: 1;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-group button:hover {
+    background-color: #b47171;
+  }
+  
+  
